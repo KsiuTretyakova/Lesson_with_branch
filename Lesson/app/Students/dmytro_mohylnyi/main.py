@@ -1,5 +1,9 @@
-n1 = input("Your number: ")
+if __name__ == "__main__":
 
-def square():
-    return n1 * n1
+    # n1 = input("Your number: ")
+
+    def square(n1):
+        return n1 * n1
+
+
 
